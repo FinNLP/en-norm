@@ -1,0 +1,141 @@
+amn't	am not
+aren't	are not
+can't	can not
+could've	could have
+couldn't	could not
+couldn't have	could not have
+didn't	did not
+doesn't	does not
+don't	do not
+gonna	going to
+gotta	got to
+hadn't	had not
+hadn't have	had not have
+hasn't	has not
+haven't	have not
+he'd	he would
+he wouldn't	he would not
+he hadn't	he had not
+he would've	he would have
+he'll	he will
+he's	he is
+he isn't	he is not
+how'd	how would
+how'll	how will
+how's	how is
+i'd	i would
+i hadn't	i had not
+i wouldn't have	i would not have
+i would've	i would have
+i'll	i will
+i'm	i am
+i've	i have
+i haven't	i have not
+isn't	is not
+it'd	it would
+it hadn't	it had not
+it hadn't have	it had not have
+it would've	it would have
+it'll	it will
+it's	it is
+it isn't	it is not
+mightn't	might not
+might've	might have
+mustn't	must not
+mustn't have	must not have
+must've	must have
+needn't	need not
+oughtn't	ought not
+shan't	shall not
+she'd	she would
+she hadn't	she had not
+she wouldn't have	she would not have
+she would've	she would have
+she'll	she will
+she's	she is
+she isn't	she is not
+should've	should have
+shouldn't	should not
+shouldn't have	should not have
+somebody would've	somebody would have
+somebody wouldn't have	somebody would not have
+somebody's	somebody is
+someone'd	someone would
+someone hadn't	someone had not
+someone wouldn't have	someone would not have
+someone would've	someone would have
+someone'll	someone will
+someone's	someone is
+something'd	something would
+something'dn't	something would not
+something'dn't've	something would not have
+something'd've	something would have
+something'll	something will
+something's	something is
+that'll	that will
+that's	that is
+that'd	that would
+there'd	there would
+there'dn't	there would not
+there'dn't've	there would not have
+there'd've	there would have
+there're	there are
+there's	there is
+they'd	they would
+they'dn't	they would not
+they'dn't've	they would not have
+they'd've	they would have
+they'd'ven't	they would have not
+they'll	they will
+they won't have	they will not have
+they're	they are
+they've	they have
+they haven't	they have not
+wasn't	was not
+we'd	we would
+we would've	we would have
+we wouldn't	we would not
+we wouldn't have	we would not have
+we'll	we will
+we won't have	we will not have
+we're	we are
+we've	we have
+weren't	were not
+what'd	what would
+what'll	what will
+what're	what are
+what's	what is
+what've	what have
+when's	when is
+where'd	where would
+where's	where is
+where've	where have
+who'd	who would
+who'd've	who would have
+who'll	who will
+who're	who are
+who's	who is
+who've	who have
+why'd	why would
+why're	why are
+why's	why is
+won't	will not
+won't've	will not have
+would've	would have
+wouldn't	would not
+wouldn't've	would not have
+y'all	you all
+ya'll	you all
+y'all'd've	you all would have
+y'all'dn't've	you all would not have
+y'all'll	you all will
+y'all'll've	you all will have
+y'all're	you all are
+y'all'll'ven't	you all will have not
+you'd	you would
+you'd've	you would have
+you'll	you will
+you're	you are
+you aren't	you are not
+you've	you have
+you haven't	you have not
