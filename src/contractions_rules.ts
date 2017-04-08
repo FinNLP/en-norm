@@ -78,6 +78,10 @@ export const contractionRules:Rule[] = [
 		replacement:" somebody is "
 	},
 	{
+		regex:/let's/gi,
+		replacement:" let us ",
+	},
+	{
 		regex:/someone's/gi,
 		replacement:" someone is "
 	},
